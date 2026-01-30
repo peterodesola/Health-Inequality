@@ -16,7 +16,7 @@ st.set_page_config(
 
 plt.style.use("seaborn-v0_8")
 
-DATA_PATH = r"C:/Users/dayst/Downloads/gender_inequality_index.csv"
+DATA_PATH = r"gender_inequality_index.csv"
 TARGET_COL = "GII VALUE"
 
 NUMERIC_COLS = [
