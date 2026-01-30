@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Dataset And Features](#dataset-and-features)
-- [Problem Statement & Key Questions](#problem-statement-&-key-questions)
+- [Problem Statement And Key Questions](#problem-statement-and-key-questions)
   - [Problem Statement](#problem-statement)
   - [Key Questions](#key-questions)
 - [Data Cleaning & Preprocessing](#data-cleaning-&-preprocessing)
