@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Project overview](#project-overview)
+- [Project Overview](#project-overview)
 - [Dataset and features](dataset-and-features)
 - [Problem statement & key questions](problem-statement--key-questions)
   - [Problem statement](problem-statement)
