@@ -373,6 +373,7 @@ Nevertheless, the modeling exercise is valuable. First, feature importance and c
 
 <img width="1902" height="853" alt="gui" src="https://github.com/user-attachments/assets/30e28556-76d1-4425-9f0c-4e5ca46b9c81" />
 
+https://health-inequality-bpjtktkxlnpgmy6re65eapp.streamlit.app/
 
 ## Conclusion
 
