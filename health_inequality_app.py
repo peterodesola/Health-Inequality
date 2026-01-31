@@ -201,11 +201,11 @@ with tab_rel:
     # Selectors with safe defaults
     numeric_options = [
         c for c in [
-            "Maternal_mortality", "Adolescent_birth_rate",
-            "Seats_parliamentt(% held by women)",
-            "F_secondary_educ", "M_secondary_educ",
-            "F_Labour_force", "M_Labour_force",
-            "Edu_gap", "Labour_gap"
+            "Maternal mortality", "Adolescent birth rate",
+            "Seats parliamentt(% held by women)",
+            "F secondary educ", "M secondary educ",
+            "F Labour force", "M Labour force",
+            "Edu gap", "Labour gap"
         ]
         if c in df.columns
     ]
